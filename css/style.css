@@ -1028,7 +1028,7 @@ a { text-decoration: none; color: inherit; }
   line-height: 1.05;
   color: var(--black);
   max-width: 1078px;
-  text-transform: lowercase;
+  text-transform: none;
 }
 
 .projects-page-grid {
